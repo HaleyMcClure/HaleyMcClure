@@ -52,7 +52,7 @@ Every one of these needed a team of builders and operators, and building that te
 
 ## Why the history is short
 
-I first opened this account around 2020 for MIT Hacking Medicine innovation work, and I took those repos down when the events ended. Since then, my employer work has lived in client and company systems, which is where it belonged. Everything you see here is new, and all of it is mine. MIT Hacking Medicine is an affiliation of mine; it does not publish or endorse this work.
+I first opened this account around 2020 for MIT Hacking Medicine innovation work, and I took those repos down when the events ended. Since then, my employer work has lived in client and company systems, which is where it belonged. Everything you see here is new, and all of it is mine. 
 
 ## Ground rules
 
