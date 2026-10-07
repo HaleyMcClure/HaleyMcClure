@@ -27,18 +27,28 @@ I am a product leader, not a software engineer, and I think that is exactly why 
 
 The hard part is not chaining models together. It is knowing which steps are safe to hand off, what it looks like when something goes wrong, and what evidence an operator would need before trusting the result. That is the bar I am holding this project to.
 
-## Background
+## What I have built
 
-My career has been a similar remit at different scales: stand up the operating model, the governance, the technology, and the architecture, then build the team of builders and operators who run it. I have done that across healthcare, life sciences, financial services, and technology.
+I work where healthcare, technology, and people meet. I studied English, trained as an educator, and spent my career inside software engineering, operations, and product teams. That mix is the point. The hardest problems in healthcare are never only technical, and the best solutions come from people who can hold the human side and the system side at the same time.
 
-- **McClure Consulting Group**, Founder and Managing Director.
-- **EPAM Systems (Continuum)**, Senior Director. Launched a regional healthcare and life sciences practice and led digital and omnichannel strategy, product management, technical product development, and end-to-end delivery management.
-- **MedImpact**, Corporate Director. Led Client Technical Solutions for a PBM platform serving 55 million lives.
-- **DirecTV**, launched its first direct-to-consumer streaming service, in English and Spanish.
-- **Intuit**, customer experience across small business product offerings.
-- **Scripps Health**, enterprise PMO and digital health, including the very first MyScripps patient portal.
+Most of my work has been in healthcare and life sciences, with stops in media and fintech along the way.
 
-Education: MEd, National University | BA English, UCLA | Affiliations: MIT Hacking Medicine | HIMSS Senior Member (SHIMSS) | ACHE Member | Google AI Professional | PMP®
+- **The first MyScripps patient portal**, as part of enterprise PMO and digital health at Scripps Health
+- **Client technical solutions for a PBM platform serving 55 million lives**, which I led for seven years at MedImpact
+- **A regional healthcare and life sciences practice, built from the ground up**, delivering products and strategy for Fortune 50 organizations at EPAM (Continuum)
+- **DirecTV's first direct-to-consumer streaming service**, launched in English and Spanish
+- **Small business customer experiences** across Intuit's product offerings
+- **McClure Consulting Group**, my advisory firm for digital transformation and strategy
+
+Every one of these needed a team of builders and operators, and building that team was always part of the job.
+
+**Education:** M.Ed., National University · B.A. English, UCLA
+
+**Certifications:** PMP® · Google AI Professional
+
+**Affiliations:** Senior Advisor, MIT Hacking Medicine · Senior Member, HIMSS · Member, ACHE
+
+*Affiliations are listed for background only. None of these organizations publishes, reviews, or endorses this work.*
 
 ## Why the history is short
 
