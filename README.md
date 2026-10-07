@@ -27,7 +27,7 @@ I am a product leader, not a software engineer, and I think that is exactly why 
 
 The hard part is not chaining models together. It is knowing which steps are safe to hand off, what it looks like when something goes wrong, and what evidence an operator would need before trusting the result. That is the bar I am holding this project to.
 
-## What I have built
+## Background
 
 I work where healthcare, technology, and people meet. I studied English, trained as an educator, and spent my career inside software engineering, operations, and product teams. That mix is the point. The hardest problems in healthcare are never only technical, and the best solutions come from people who can hold the human side and the system side at the same time.
 
