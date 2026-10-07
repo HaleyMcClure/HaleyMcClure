@@ -33,11 +33,11 @@ I work where healthcare, technology, and people meet. I studied English, trained
 
 Most of my work has been in healthcare and life sciences, with stops in media and fintech along the way.
 
-- **The first MyScripps patient portal**, as part of enterprise PMO and digital health at Scripps Health
 - **Client technical solutions for a PBM platform serving 55 million lives**, which I led for seven years at MedImpact
 - **A regional healthcare and life sciences practice, built from the ground up**, delivering products and strategy for Fortune 50 organizations at EPAM (Continuum)
+- **The first MyScripps patient portal**, as part of enterprise PMO and digital health at Scripps Health
 - **DirecTV's first direct-to-consumer streaming service**, launched in English and Spanish
-- **Small business customer experiences** across Intuit's product offerings
+- **Small business customer experiences** across Intuit's global product offerings
 - **McClure Consulting Group**, my advisory firm for digital transformation and strategy
 
 Every one of these needed a team of builders and operators, and building that team was always part of the job.
