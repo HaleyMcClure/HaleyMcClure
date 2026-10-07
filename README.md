@@ -33,12 +33,12 @@ I work where healthcare, technology, and people meet. I studied English, trained
 
 Most of my work has been in healthcare and life sciences, with stops in media and fintech along the way.
 
-- **Client technical solutions for a PBM platform serving 55 million lives**, which I led for seven years at MedImpact
-- **A regional healthcare and life sciences practice, built from the ground up**, delivering products and strategy for Fortune 50 organizations at EPAM (Continuum)
-- **The first MyScripps patient portal**, as part of enterprise PMO and digital health at Scripps Health
-- **DirecTV's first direct-to-consumer streaming service**, launched in English and Spanish
-- **Small business customer experiences** across Intuit's global product offerings
-- **McClure Consulting Group**, my advisory firm for digital transformation and strategy
+- **EPAM (Continuum), Senior Director, Digital Engagement.** Built a regional healthcare and life sciences practice, delivering products and strategy for Fortune 500 organizations.
+- **MedImpact, Corporate Director, Client Technical Solutions.** Transformed a large technical and product organization from the ground up for a PBM serving 55 million lives.
+- **DirecTV, Consulting Director.** Led the launch of its first direct-to-consumer streaming service, in English and Spanish.
+- **Intuit.** Led the PMO for customer experience product development across global small business offerings.
+- **Scripps Health, Senior Manager.** Led enterprise IT and digital health initiatives, including the first MyScripps patient portal, and transformed large-scale capital project delivery.
+- **McClure Consulting Group, Founder and Managing Director.** Advisory firm for digital transformation and strategy.
 
 Every one of these needed a team of builders and operators, and building that team was always part of the job.
 
@@ -58,6 +58,4 @@ I first opened this account around 2020 for MIT Hacking Medicine innovation work
 
 You will not find patient data, member files, or scraped clinical notes here. Everything in this account is a demo, and I will never present one as production ready.
 
-If you are hiring for healthcare AI, digital transformation, or regulated product and operating model work, the best place to start is the flagship repo, followed by the governance review.
-
-[LinkedIn](https://www.linkedin.com/in/haleymcclure/)
+If you are hiring for healthcare AI, digital transformation, or regulated product and operating model work, the best place to start is the flagship repo, followed by the governance review. You can reach me on [LinkedIn](https://www.linkedin.com/in/haleymcclure/).
