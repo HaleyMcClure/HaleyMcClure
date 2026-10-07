@@ -38,7 +38,8 @@ My career has been a similar remit at different scales: stand up the operating m
 - **Intuit**, customer experience across small business product offerings.
 - **Scripps Health**, enterprise PMO and digital health, including the very first MyScripps patient portal.
 
-I am a Senior Advisor to MIT Hacking Medicine and an Advisor to Harvard-MIT HST Healthcare Ventures. I hold an M.Ed. from National University, a B.A. in English from UCLA, and PMP and CSM certifications. I am also a member of ACHE and a Senior Member of HIMSS.
+Education: MEd, National University | BA English, UCLA 
+Affiliations: MIT Hacking Medicine | HIMSS Senior Member (SHIMSS) | ACHE Member | Google AI Professional | PMP®
 
 ## Why the history is short
 
