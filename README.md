@@ -1,61 +1,48 @@
 # Haley McClure
 
-I build products for healthcare. Lately that means AI agents. My core questions have not changed: what job is this doing, who is accountable for the result, and how would anyone know it worked?
+**Healthcare technology, product, and transformation leader | Exploring what AI agents can—and should—do in healthcare**
 
-I am not looking for places to show off AI. I am digging into the most pressing problems in healthcare and asking where an agent could genuinely help. This is my build series: one working agent at a time, each tied to a real problem.
+I turn strategy into execution across products, platforms, and operating models. Here, I am exploring what it takes to move AI agents beyond compelling demonstrations and into workflows that healthcare organizations could responsibly trust.
+
+Three questions guide every build:
+
+- What real operator job needs to be done?
+- Where should an agent assist—and where must a person remain accountable?
+- What evidence would show that the workflow is safe, useful, and effective?
+
+This is my **healthcare agent build series: one working agent at a time**, each anchored in a real problem and designed with governance, human oversight, and measurable outcomes from the start.
 
 ## What I am building
 
-**Flagship:** `healthcare-agents` (publishing this month)
+**Flagship: `healthcare-agents` — in active development**
 
-Every workflow in it follows the same product discipline:
+Every workflow follows the same core discipline:
 
-- It does one real operator job, not a model demo
-- It runs on synthetic data, checked in under `data/synthetic/`
-- It writes an audit record for every run
-- A human signs off before anything counts as done
-- It ends with a plain note on what a production version would still need
+- One clearly defined operator job
+- Synthetic data only, stored in `data/synthetic/`
+- An audit record for every run
+- Explicit human review before anything is considered complete
+- A plain-language assessment of what production deployment would require
 
-First two builds, in order:
-
-1. A prior authorization packet agent
-2. A governance review agent that checks the design of the others
+The first workflow is a prior authorization packet agent. The next is a governance review agent designed to evaluate the controls, boundaries, and production readiness of other healthcare agents.
 
 ## How I build
 
-I am a product leader, not a software engineer, and I think that is exactly why this work suits me. My job is to frame the problem, write the acceptance criteria, and decide what the agent is and is not allowed to do. A coding agent writes the first draft, and I review every change before anything is merged, the same way I would with any team I lead.
+I approach this work as a healthcare product and transformation leader. My role is to identify the operational problem, understand the people and systems around it, define the intended outcome, and establish what an agent is—and is not—allowed to do.
 
-The hard part is not chaining models together. It is knowing which steps are safe to hand off, what it looks like when something goes wrong, and what evidence an operator would need before trusting the result. That is the bar I am holding this project to.
+I use coding agents to accelerate implementation, then review the design, logic, tests, and changes before anything is merged. Every published build is something I directed, reviewed, and can speak to.
 
-## Background
+The difficult part rarely involves connecting models and tools. It is deciding which work can be safely delegated, anticipating how the workflow might fail, preserving human accountability, and producing enough evidence for an operator to trust the result.
 
-I work where healthcare, technology, and people meet. I studied English, trained as an educator, and spent my career inside software engineering, operations, and product teams. That mix is the point. The hardest problems in healthcare are never only technical, and the best solutions come from people who can hold the human side and the system side at the same time.
+## Account History
 
-Most of my work has been in healthcare and life sciences, with stops in media and fintech along the way.
+I first opened this account around 2020 for MIT Hacking Medicine innovation work, and I removed those repos when the events ended. Since then, my employer work has lived in client and company systems, which is where it belonged. Everything you see here is new, and all of it is mine. 
 
-- **EPAM (Continuum), Senior Director, Digital Engagement.** Built a regional healthcare and life sciences practice, delivering products and strategy for Fortune 500 organizations.
-- **MedImpact, Corporate Director, Client Technical Solutions.** Transformed a large technical and product organization from the ground up for a PBM serving 55 million lives.
-- **DirecTV, Consulting Director.** Led the launch of its first direct-to-consumer streaming service, in English and Spanish.
-- **Intuit.** Led the PMO for customer experience product development across global small business offerings.
-- **Scripps Health, Senior Manager.** Led enterprise IT and digital health initiatives, including the first MyScripps patient portal, and transformed large-scale capital project delivery.
-- **McClure Consulting Group, Founder and Managing Director.** Advisory firm for digital transformation and strategy.
+## Ground Rules
 
-Every one of these needed a team of builders and operators, and building that team was always part of the job.
+You will not find patient data, member files, or scraped clinical notes here. All examples use synthetic data, and every repository is presented as a demonstration and not as a production-ready system.
 
-**Education:** M.Ed., National University · B.A. English, UCLA
+If you are hiring in healthcare AI, product or platform leadership, enterprise transformation, or regulated technology and operating model work, start with `healthcare-agents` and its governance review.
 
-**Certifications:** PMP® · Google AI Professional
-
-**Affiliations:** Senior Advisor, MIT Hacking Medicine · Senior Member, HIMSS · Member, ACHE
-
-*Affiliations are listed for background only. None of these organizations publishes, reviews, or endorses this work.*
-
-## Why the history is short
-
-I first opened this account around 2020 for MIT Hacking Medicine innovation work, and I took those repos down when the events ended. Since then, my employer work has lived in client and company systems, which is where it belonged. Everything you see here is new, and all of it is mine. 
-
-## Ground rules
-
-You will not find patient data, member files, or scraped clinical notes here. Everything in this account is a demo, and I will never present one as production ready.
-
-If you are hiring for healthcare AI, digital transformation, or regulated product and operating model work, the best place to start is the flagship repo, followed by the governance review. You can reach me on [LinkedIn](https://www.linkedin.com/in/haleymcclure/).
+You can learn more about my professional background or contact me on [LinkedIn](https://www.linkedin.com/in/haleymcclure/).
+```
