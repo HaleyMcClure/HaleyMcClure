@@ -1,6 +1,6 @@
 # Haley McClure
 
-**Healthcare technology, product, and transformation leader | Exploring what AI agents can—and should—do in healthcare**
+**Healthcare technology, product, and transformation leader | Exploring what AI agents can, and should, do in healthcare**
 
 I turn strategy into execution across products, platforms, and operating models. Here, I am exploring what it takes to move AI agents beyond compelling demonstrations and into workflows that healthcare organizations could responsibly trust.
 
@@ -28,7 +28,7 @@ The first workflow is a prior authorization packet agent. The next is a governan
 
 ## How I build
 
-I approach this work as a healthcare product and transformation leader. My role is to identify the operational problem, understand the people and systems around it, define the intended outcome, and establish what an agent is—and is not—allowed to do.
+I approach this build series as a healthcare product and transformation leader. My role is to identify the operational problem, understand the people and systems around it, define the intended outcome, and establish what an agent is, and is not, allowed to do.
 
 I use coding agents to accelerate implementation, then review the design, logic, tests, and changes before anything is merged. Every published build is something I directed, reviewed, and can speak to.
 
