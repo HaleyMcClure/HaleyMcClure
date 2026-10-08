@@ -30,7 +30,7 @@ The first workflow is a prior authorization packet agent. The next is a governan
 
 I approach this build series as a healthcare product and transformation leader. My role is to identify the operational problem, understand the people and systems around it, define the intended outcome, and establish what an agent is, and is not, allowed to do.
 
-I use coding agents to accelerate implementation, then review the design, logic, tests, and changes before anything is merged. Every published build is something I directed, reviewed, and can speak to.
+I use coding agents to accelerate implementation, then review the design, logic, tests, and changes before anything is merged. Every published build is something I directed, reviewed and released.
 
 The difficult part rarely involves connecting models and tools. It is deciding which work can be safely delegated, anticipating how the workflow might fail, preserving human accountability, and producing enough evidence for an operator to trust the result.
 
