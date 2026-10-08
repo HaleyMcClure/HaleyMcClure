@@ -7,7 +7,7 @@ I turn strategy into execution across products, platforms, and operating models.
 Three questions guide every build:
 
 - What real operator job needs to be done?
-- Where should an agent assist—and where must a person remain accountable?
+- Where should an agent assist, and where must a person remain accountable?
 - What evidence would show that the workflow is safe, useful, and effective?
 
 This is my **healthcare agent build series: one working agent at a time**, each anchored in a real problem and designed with governance, human oversight, and measurable outcomes from the start.
